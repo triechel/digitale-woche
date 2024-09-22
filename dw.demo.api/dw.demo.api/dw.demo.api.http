@@ -1,0 +1,6 @@
+@dw.demo.api_HostAddress = http://localhost:5051
+
+GET {{dw.demo.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
